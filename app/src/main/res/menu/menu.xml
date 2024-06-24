@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/menu_Available"
+        android:icon="@drawable/ic_baseline_event_available_24"
+        android:title="Available Courses" />
+    <item
+        android:id="@+id/menu_Buy"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        android:title="Buy Course" />
+    <item
+        android:id="@+id/menu_Edit"
+        android:icon="@drawable/ic_baseline_edit_note_24"
+        android:title="Edit Profile" />
+    <item
+        android:id="@+id/menu_Contact"
+        android:icon="@drawable/ic_baseline_send_24"
+        android:title="Admin Contact" />
+    <item android:id="@+id/menu_policy"
+        android:icon="@drawable/ic_baseline_policy_24"
+        android:title="Privacy Policy"/>
+    <item android:id="@+id/menu_Rate"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        android:title="Rate Us"/>
+
+
+
+
+
+
+
+
+
+</menu>

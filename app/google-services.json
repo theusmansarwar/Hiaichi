@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "233457715757",
+    "firebase_url": "https://hiaichi-default-rtdb.firebaseio.com",
+    "project_id": "hiaichi",
+    "storage_bucket": "hiaichi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233457715757:android:dcfa7510ddbf4f49e1c6a4",
+        "android_client_info": {
+          "package_name": "com.Hiaichi.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233457715757-3ujceo5od4g4rd18pgf99d398d0qtqsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJqwyoYj9G9TlpOxISlDwveT2wMSjh9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233457715757-3ujceo5od4g4rd18pgf99d398d0qtqsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233457715757:android:d2444c7977a87869e1c6a4",
+        "android_client_info": {
+          "package_name": "com.real.hiaichi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233457715757-3ujceo5od4g4rd18pgf99d398d0qtqsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJqwyoYj9G9TlpOxISlDwveT2wMSjh9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233457715757-3ujceo5od4g4rd18pgf99d398d0qtqsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233457715757:android:c60f6970e15c11a6e1c6a4",
+        "android_client_info": {
+          "package_name": "com.usmansarwar.hiaichi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233457715757-3ujceo5od4g4rd18pgf99d398d0qtqsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJqwyoYj9G9TlpOxISlDwveT2wMSjh9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233457715757-3ujceo5od4g4rd18pgf99d398d0qtqsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

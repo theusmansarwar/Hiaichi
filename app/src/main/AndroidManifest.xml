@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.usmansarwar.hiaichi">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Hiaichi">
+        <activity
+            android:name=".Splash"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SetAvailibility"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name=".Admin"
+            android:exported="true" />
+        <activity
+            android:name=".Contact"
+            android:exported="false" />
+        <activity
+            android:name=".Edit"
+            android:exported="false" />
+        <activity
+            android:name=".Policy"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".Registration"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true"/>
+
+        <activity
+            android:name=".Buy"
+            android:exported="true" />
+        <activity
+            android:name=".Available"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.YoutubePayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.WebPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.SocialPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.SeoPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.GraphicPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.GamePayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.FreelancingPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.DataPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.AppPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.BlockChainPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Payments.AmazonPayment"
+            android:exported="true" />
+        <activity
+            android:name=".Show_Detail"
+            android:exported="false" />
+        <activity
+            android:name=".Add_Data"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.App"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Blockchain"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.DataScience"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Freelancing"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Game"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.GraphicsDesigning"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Seo"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Social"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Youtube"
+            android:exported="true" />
+        <activity
+            android:name=".Courses.Webdevelopmentcourse"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.AmazonVisibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.AppAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.BlockchainAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.DAtaAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.Freelancingavailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.GameAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.GraphicAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.SocialAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.SeoAvailibility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.WebAvailbility"
+            android:exported="true" />
+        <activity
+            android:name=".CourseAvailibility.YoutubeAvailibility"
+            android:exported="true" />
+    </application>
+
+</manifest>
